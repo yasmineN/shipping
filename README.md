@@ -1,2 +1,2 @@
 # shipping
-A webpage that compares the cost of shiping using muliple routes
+A webpage that compares the cost of shipping using multiple routes
